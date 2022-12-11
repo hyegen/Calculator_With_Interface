@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calculator_With_Interface/1.0.0": {
+        "runtime": {
+          "Calculator_With_Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculator_With_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

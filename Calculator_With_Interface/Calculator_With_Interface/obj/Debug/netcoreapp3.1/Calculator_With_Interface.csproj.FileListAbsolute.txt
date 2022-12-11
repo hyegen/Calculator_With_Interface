@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Calculator_With_Interface\Calculator_With_Interface\bin\Debug\netcoreapp3.1\Calculator_With_Interface.exe
+C:\Users\Administrator\source\repos\Calculator_With_Interface\Calculator_With_Interface\bin\Debug\netcoreapp3.1\Calculator_With_Interface.deps.json
+C:\Users\Administrator\source\repos\Calculator_With_Interface\Calculator_With_Interface\bin\Debug\netcoreapp3.1\Calculator_With_Interface.runtimeconfig.json
+C:\Users\Administrator\source\repos\Calculator_With_Interface\Calculator_With_Interface\bin\Debug\netcoreapp3.1\Calculator_With_Interface.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Calculator_With_Interface\Calculator_With_Interface\bin\Debug\netcoreapp3.1\Calculator_With_Interface.dll
+C:\Users\Administrator\source\repos\Calculator_With_Interface\Calculator_With_Interface\bin\Debug\netcoreapp3.1\Calculator_With_Interface.pdb
+C:\Users\Administrator\source\repos\Calculator_With_Interface\Calculator_With_Interface\obj\Debug\netcoreapp3.1\Calculator_With_Interface.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Calculator_With_Interface\Calculator_With_Interface\obj\Debug\netcoreapp3.1\Calculator_With_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Calculator_With_Interface\Calculator_With_Interface\obj\Debug\netcoreapp3.1\Calculator_With_Interface.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Calculator_With_Interface\Calculator_With_Interface\obj\Debug\netcoreapp3.1\Calculator_With_Interface.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Calculator_With_Interface\Calculator_With_Interface\obj\Debug\netcoreapp3.1\Calculator_With_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Calculator_With_Interface\Calculator_With_Interface\obj\Debug\netcoreapp3.1\Calculator_With_Interface.dll
+C:\Users\Administrator\source\repos\Calculator_With_Interface\Calculator_With_Interface\obj\Debug\netcoreapp3.1\Calculator_With_Interface.pdb
+C:\Users\Administrator\source\repos\Calculator_With_Interface\Calculator_With_Interface\obj\Debug\netcoreapp3.1\Calculator_With_Interface.genruntimeconfig.cache
